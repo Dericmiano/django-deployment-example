@@ -1,0 +1,65 @@
+.banner{
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.slider{
+    height:100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+#sliderTmg{
+    width: 100%;
+    height: 100vh;
+}
+.carousel-caption{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+
+}
+.content{
+    width:60px;
+    margin: 160px auto 0;
+    text-align: center;
+    color: white;
+}
+.content h1{
+    font-size: 60px;
+
+}
+.content h3{
+    width: 80%;
+    margin: 20px auto 100px;
+    font-weight: 100;
+    line-height: 20px;
+}
+.button{
+    width:200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 0 10px;
+    border-radius:50px;
+    font-weight: bold;
+    border: 2px solid burlywood;
+    background: coral;
+    color:coral;
+    cursor: pointer;
+}
+button:hover{
+    background: transparent;
+    border: 2px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+

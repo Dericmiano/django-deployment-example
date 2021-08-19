@@ -1,0 +1,120 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="-a-transition" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="offers.html" />
+            <item index="1" class="java.lang.String" itemvalue="{%endblock%}" />
+            <item index="2" class="java.lang.String" itemvalue="endblock" />
+            <item index="3" class="java.lang.String" itemvalue="https:" />
+            <item index="4" class="java.lang.String" itemvalue="300" />
+            <item index="5" class="java.lang.String" itemvalue="data_action" />
+            <item index="6" class="java.lang.String" itemvalue="static" />
+            <item index="7" class="java.lang.String" itemvalue="{%" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="u1" />
+            <item index="7" class="java.lang.String" itemvalue="tr" />
+            <item index="8" class="java.lang.String" itemvalue="li" />
+            <item index="9" class="java.lang.String" itemvalue="span" />
+            <item index="10" class="java.lang.String" itemvalue="h1" />
+            <item index="11" class="java.lang.String" itemvalue="h3" />
+            <item index="12" class="java.lang.String" itemvalue="key" />
+            <item index="13" class="java.lang.String" itemvalue="dict" />
+            <item index="14" class="java.lang.String" itemvalue="string" />
+            <item index="15" class="java.lang.String" itemvalue="plist" />
+            <item index="16" class="java.lang.String" itemvalue="array" />
+            <item index="17" class="java.lang.String" itemvalue="https" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="type.as_view" />
+          <option value="django.contrib.admin.options.ModelAdmin.save" />
+          <option value="schoollearn.forms.views.reports.is_valid" />
+          <option value="schoollearn.form1.admin.Math1Admin.is_valid" />
+          <option value="schoollearn.form1.admin.Math1Admin.save" />
+          <option value="onlineschool.form1.admin.Engs1Admin.save" />
+          <option value="onlineschool.form1.admin.Engs1Admin.is_valid" />
+          <option value="onlineschool.form1.models.Engs1.objects" />
+          <option value="onlineschool.form1.admin.Hist1Admin.save" />
+          <option value="onlineschool.form1.admin.Hist1Admin.is_valid" />
+          <option value="onlineschool.form1.models.Hist1.objects" />
+          <option value="onlineschool.form1.admin.Agri1Admin.save" />
+          <option value="onlineschool.form1.admin.Agri1Admin.is_valid" />
+          <option value="onlineschool.form1.models.Agri1.objects" />
+          <option value="onlineschool.form1.admin.CRE1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.CRE1Admin.save" />
+          <option value="onlineschool.form1.models.CRE1.objects" />
+          <option value="onlineschool.form1.admin.Comp1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Comp1Admin.save" />
+          <option value="onlineschool.form1.models.Comp1.objects" />
+          <option value="onlineschool.form1.admin.Bio1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Bio1Admin.save" />
+          <option value="onlineschool.form1.models.Bio1.objects" />
+          <option value="onlineschool.form1.admin.Bus1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Bus1Admin.save" />
+          <option value="onlineschool.form1.models.Bus1.objects" />
+          <option value="onlineschool.form1.admin.Kisw1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Kisw1Admin.save" />
+          <option value="onlineschool.form1.models.Kisw1.objects" />
+          <option value="onlineschool.form1.admin.Phy1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Phy1Admin.save" />
+          <option value="onlineschool.form1.models.Phy1.objects" />
+          <option value="onlineschool.form1.admin.Geo1Admin.is_valid" />
+          <option value="onlineschool.form1.admin.Geo1Admin.save" />
+          <option value="onlineschool.form1.models.Geo1.objects" />
+          <option value="onlineschool.form2A.models.Maths2.objects" />
+          <option value="onlineschool.form3A.models.Maths3.objects" />
+          <option value="onlineschool.form3A.models.Engs3.objects" />
+          <option value="onlineschool.form3A.models.Agri3.objects" />
+          <option value="onlineschool.form3A.models.Chem3.objects" />
+          <option value="onlineschool.form3A.models.Phy3.*" />
+          <option value="onlineschool.form2A.models.Agri2.*" />
+          <option value="REV.K" />
+          <option value="REV.k" />
+          <option value="kellah.settings.STATIC_ROOT" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
